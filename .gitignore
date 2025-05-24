@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pip/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Coverage reports
+.coverage
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# PyCharm project files
+.idea/
+
+# PyInstaller
+# If you use PyInstaller, add the following line to ignore the build directory
+# build/
+
+# Sphinx documentation
+docs/_build/
+
+# Pytest HTML reports
+*.html
+
+# Pytest XML reports
+*.xml
+
+# Coverage HTML reports
+coverage_html_report/
+
+# Coverage XML reports
+coverage_xml_report/
+
+# SQLAlchemy migrations
+migrations/
+
+# Flask instance folder
+instance/
+
+# Django migrations
+migrations/
+
+# Django static files
+staticfiles/
