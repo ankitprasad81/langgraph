@@ -1,0 +1,14 @@
+Your conversation begins here: 
+You: Hi Llama, how are you doing today? 
+AI: I'm doing well, thank you for asking. I'm a large language model, so I don't have emotions or feelings like humans do, but I'm functioning properly and ready to assist you with any questions or tasks you may have. How can I help you today?
+
+You: Can you tell me a joke about a corporate employee? 
+AI: Here's one:
+
+Why did the corporate employee bring a ladder to the meeting?
+
+Because they wanted to take their career to the next level.
+
+I hope that one rose to the occasion and made you smile!
+
+End of conversation.
