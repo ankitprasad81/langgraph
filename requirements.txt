@@ -1,6 +1,9 @@
+pypdf
 langchain
 langchain-openai
 langchain-community
 langgraph
 langchain-text-splitters
 langchain_groq
+langchain-chroma
+langchain-huggingface
