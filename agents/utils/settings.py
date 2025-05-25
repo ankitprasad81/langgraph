@@ -6,6 +6,6 @@ class Settings(BaseSettings):
 
     GROQ_TEXT_MODEL : str = "llama-3.1-8b-instant"
     MAX_TOKENS : int = 1000
-    GROQ_API_KEY : str = "your_api_key"
+    GROQ_API_KEY : str = ""
 
 settings = Settings()
